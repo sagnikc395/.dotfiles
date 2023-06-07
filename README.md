@@ -11,4 +11,4 @@ My dotfiles.
   - setup tmux as outline here (in the ~/.config/tmux directory):
     - https://github.com/gpakosz/.tmux
 
-- (./baz/becurious.png)
+![🫡 💪](./baz/becurious.png)
