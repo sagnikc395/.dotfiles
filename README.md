@@ -7,5 +7,8 @@ My dotfiles.
 - zsh theme:
   - the default one with completions for deno and node.
 - tmux:
+
   - setup tmux as outline here (in the ~/.config/tmux directory):
     - https://github.com/gpakosz/.tmux
+
+- [🫡 😓](./baz/becurious.png)
