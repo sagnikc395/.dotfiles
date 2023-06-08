@@ -14,4 +14,4 @@ require("sagnikc395.plugins.lsp.null-ls")
 require("sagnikc395.plugins.autopairs")
 require("sagnikc395.plugins.treesitter")
 require("sagnikc395.plugins.gitsigns")
-
+require("sagnikc395.plugins.mason")
