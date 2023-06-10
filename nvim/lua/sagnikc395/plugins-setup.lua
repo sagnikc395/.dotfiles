@@ -83,4 +83,8 @@ return require("packer").startup(function(use)
 
 	--rust tools
 	use("simrat39/rust-tools.nvim")
+
+	-- go setup
+	use("ray-x/go.nvim")
+	use("ray-x/guihua.lua")
 end)
