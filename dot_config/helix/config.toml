@@ -1,4 +1,5 @@
-theme = "gruvbox_dark_hard"
+theme = "jellybeans"
+#theme = "emacs"
 
 [editor]
 line-number = "relative"
